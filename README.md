@@ -1,4 +1,4 @@
-##给予GM的图片压缩脚本 ##
+## 基于GraphicsMagick 的图片压缩脚本 ##
 
 ### 安装说明 ##
 * 首先下载GraphicsMagick-1.3.23-Q8-win64-dll
